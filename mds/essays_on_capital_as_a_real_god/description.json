@@ -1,0 +1,22 @@
+{
+"metadata":{
+    "dc:title":"Essays on Capital as a Real God",
+    "dc:creator":"Ian P. Wright",
+    "dc:language":"en-US",
+    "dc:identifier":"capital-as-a-real-god",
+    "dc:source":"",
+    "meta":"",
+    "dc:date":"2021-11-25",
+    "dc:publisher":"",
+    "dc:contributor":"",
+    "dc:rights":"",
+    "dc:description":"Adapted from a talk given on August 22, 2020: https://www.youtube.com/watch?v=gvp8khkvoQQ. Cover adapted from Harmonic Tower by Daniel Martin Diaz",
+    "dc:subject":"Non-Fiction, Cybernetics, Occultism, Marxism, Capitalism, Political Economy"
+    },
+"cover_image":"cover.jpg",
+"default_css":["styles.css"],
+"chapters":[
+            {"markdown":"I. Marx on Capital as a Real God.md","css":""},
+            {"markdown":"II. Dark Eucharist of the Real God.md","css":""}
+        ]
+}
