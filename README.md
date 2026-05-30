@@ -9,7 +9,7 @@ Conversion of the following blog essays to Markdown, PDF, and ebooks, with permi
 
 - ePub: [essays_on_capital_as_a_real_god.epub](https://github.com/lukifer/capital_as_real_god/raw/refs/heads/main/essays_on_capital_as_a_real_god.epub)
 - PDF: [essays_on_capital_as_a_real_god.pdf](https://github.com/lukifer/capital_as_real_god/raw/refs/heads/main/essays_on_capital_as_a_real_god.pdf)
-- Markdown: [essays_on_capital_as_a_real_god.md]https://github.com/lukifer/capital_as_real_god/raw/refs/heads/main/essays_on_capital_as_a_real_god.md)
+- Markdown: [essays_on_capital_as_a_real_god.md](https://github.com/lukifer/capital_as_real_god/raw/refs/heads/main/essays_on_capital_as_a_real_god.md)
 - Kindle*: [essays_on_capital_as_a_real_god.mobi](https://github.com/lukifer/capital_as_real_god/raw/refs/heads/main/essays_on_capital_as_a_real_god.mobi)
 
 (* Untested Calibre conversion)
