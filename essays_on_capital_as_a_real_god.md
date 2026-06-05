@@ -1,4 +1,4 @@
-![](mds/essays_on_capital_as_a_read_god/images/cover.jpg "")
+![](mds/essays_on_capital_as_a_real_god/images/cover.jpg "")
 
 ##### Adapted from [https://ianwrightsite.wordpress.com/2021/11/26/essays-on-capital-as-a-real-god/](https://ianwrightsite.wordpress.com/2021/11/26/essays-on-capital-as-a-real-god/) (with permission of the author)
 

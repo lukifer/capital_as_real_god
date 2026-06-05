@@ -31,4 +31,12 @@ python3 mark2epub.py ./mds/essays_on_capital_as_a_real_god essays_on_capital_as_
 brew install pandoc
 brew install weasyprint
 pandoc essays_on_capital_as_a_real_god.md -o essays_on_capital_as_a_real_god.pdf --pdf-engine=weasyprint
+pandoc -s essays_on_capital_as_a_real_god.md -o essays_on_capital_as_a_real_god.html
+```
+
+### HTML creation
+
+```
+brew install pandoc
+pandoc --embed-resources -s essays_on_capital_as_a_real_god.md -o essays_on_capital_as_a_real_god.html
 ```
